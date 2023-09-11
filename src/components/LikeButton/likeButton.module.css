@@ -1,0 +1,21 @@
+.btn_wrapper {
+    font-size: 1rem;
+    padding: 0.5rem 1.2rem;
+    border-radius: 0.4rem;
+    background-color: grey;
+    border: 0.1rem solid rgb(123, 122, 122);;
+    float: right;
+    color: white;
+}
+
+.liked {
+    background-color: #6a02e0;
+    border: 0.1rem solid #6703d8;
+    color: white;
+    font-weight: 500;
+}
+
+.like_btn {
+    display: flex;
+    align-items: center;
+}

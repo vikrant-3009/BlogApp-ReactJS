@@ -1,0 +1,15 @@
+.main {
+    margin: 2% 3% 9.5% 3%;
+}
+
+.main h3, p {
+    text-align: center;
+}
+
+.main h3 {
+    padding-top: 4%;
+}
+
+.main p {
+    padding-top: 1%;
+}

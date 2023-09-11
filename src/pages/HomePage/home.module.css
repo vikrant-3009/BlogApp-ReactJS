@@ -1,0 +1,33 @@
+.main {
+    margin: 2% 3% 9.5% 3%;
+}
+
+.hero_1 {
+    margin: 2% 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn {
+    display: inline-block;
+    line-height: 1.5;
+    padding: 0.4rem 0.75rem;
+    font-weight: 400;
+    vertical-align: middle;
+    border-radius: 0.5rem;
+    margin: 0 0.2rem;
+}
+
+.btn_add_blog {
+    background-color: #6e03e7;
+    border: 0.1rem solid #6703d8;
+    color: white;
+}
+
+.btn_add_blog:hover {
+    background-color: #5401b3;
+}
+
+.hero_2 {
+    margin: 2% 0;
+}
